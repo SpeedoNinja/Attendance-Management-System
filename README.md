@@ -1,4 +1,4 @@
-Attendance Management System (C++)
+Attendance Management System (C++)     : _____
 A simple, console-based attendance system built with C++. Perfect for learning basic file I/O and menu-driven applications.
 
 Features
